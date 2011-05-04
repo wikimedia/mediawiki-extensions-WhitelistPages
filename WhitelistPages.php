@@ -18,12 +18,15 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 
 // Extension credits that will show up on Special:Version
 $wgExtensionCredits['other'][] = array(
+	'path' => __FILE__,
 	'name' => 'Whitelist Pages',
 	'author' => array( 'Jack Phoenix', 'Misza' ),
-	'version' => '0.2',
-	'description' => 'Allows [[MediaWiki:Public read whitelist|whitelisting]] pages on a private wiki so that anonymous users can read said pages',
+	'version' => '0.2.1',
+	'descriptionmsg' => 'whitelistpages-desc',
 	'url' => 'http://www.mediawiki.org/wiki/Extension:Whitelist_Pages',
 );
+
+$wgExtensionMessagesFiles['WhitelistPages'] = dirname( __FILE__ ) . '/WhitelistPages.i18n.php';
 
 $wgExtensionFunctions[] = 'wfWhitelistPages';
 function wfWhitelistPages() {
