@@ -13,3 +13,10 @@ $messages['en'] = array(
 	'public_read_whitelist' => '',
 );
 
+/** German (Deutsch)
+ * @author Kghbln
+ */
+$messages['de'] = array(
+	'whitelistpages-desc' => 'Ermöglicht das [[MediaWiki:Public read whitelist|Freigeben]] bestimmter Seiten auf geschlossenen Wikis, so dass diese von anonymen Benutzern eingesehen werden können',
+);
+
