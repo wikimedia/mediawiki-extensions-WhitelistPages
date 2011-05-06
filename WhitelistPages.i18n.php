@@ -20,11 +20,32 @@ $messages['de'] = array(
 	'whitelistpages-desc' => 'Ermöglicht das [[MediaWiki:Public read whitelist|Freigeben]] bestimmter Seiten auf geschlossenen Wikis, so dass diese von anonymen Benutzern eingesehen werden können',
 );
 
+/** French (Français)
+ * @author Crochet.david
+ */
+$messages['fr'] = array(
+	'whitelistpages-desc' => 'Permet une [[MediaWiki:Public read whitelist|liste blanche]] de pages sur un wiki privé afin que les utilisateurs anonymes peuvent lire ces pages',
+);
+
+/** Galician (Galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'whitelistpages-desc' => 'Permite incluír páxinas [[MediaWiki:Public read whitelist|na lista branca]] dun wiki privado, de xeito que os usuarios anónimos poidan ler esas páxinas',
+);
+
 /** Interlingua (Interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
 	'whitelistpages-desc' => 'Permitte adder paginas al [[MediaWiki:Public read whitelist|lista blanc]] in un wiki private, de sorta que usatores anonyme pote leger iste paginas',
+);
+
+/** Indonesian (Bahasa Indonesia)
+ * @author IvanLanin
+ */
+$messages['id'] = array(
+	'whitelistpages-desc' => 'Menyediakan [[MediaWiki:Public read whitelist|daftar putih]] halaman pada wiki pribadi agar pengguna anonim dapat membaca halaman yang ditentukan',
 );
 
 /** Macedonian (Македонски)
