@@ -104,6 +104,13 @@ $messages['nl'] = array(
 	'whitelistpages-desc' => "Maakt het mogelijk pagina's in een niet-openbare wiki op de [[MediaWiki:Public read whitelist|witte lijst]] te zetten zodat anonieme gebruikers die kunnen bekijken",
 );
 
+/** Polish (Polski)
+ * @author Sp5uhe
+ */
+$messages['pl'] = array(
+	'whitelistpages-desc' => 'Pozwala w prywatnej wiki wpisać strony na [[MediaWiki:Public read whitelist|białą listę]], co umożliwia przeglądanie tych stron przez niezalogowanych użytkowników',
+);
+
 /** Portuguese (Português)
  * @author Hamilton Abreu
  */
