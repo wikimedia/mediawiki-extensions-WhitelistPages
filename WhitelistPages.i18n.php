@@ -20,6 +20,13 @@ $messages['qqq'] = array(
 	'whitelistpages-desc' => '{{desc}}',
 );
 
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+ * @author Renessaince
+ */
+$messages['be-tarask'] = array(
+	'whitelistpages-desc' => 'Дазваляе дадаваць старонкі ў прыватнай вікі ў [[MediaWiki:Public read whitelist|белы сьпіс]], каб ананімныя ўдзельнікі маглі іх чытаць',
+);
+
 /** Breton (Brezhoneg)
  * @author Fulup
  */
