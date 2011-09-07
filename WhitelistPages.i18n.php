@@ -118,6 +118,13 @@ $messages['pl'] = array(
 	'whitelistpages-desc' => 'Pozwala w prywatnej wiki wpisać strony na [[MediaWiki:Public read whitelist|białą listę]], co umożliwia przeglądanie tych stron przez niezalogowanych użytkowników',
 );
 
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'whitelistpages-desc' => 'A përmëtt ëd [[MediaWiki:Public read whitelist|amposté su ista bianca]] dle pagine dzora na wiki privà an manera che utent anònim a peusso lese cole pagine',
+);
+
 /** Portuguese (Português)
  * @author Hamilton Abreu
  */
