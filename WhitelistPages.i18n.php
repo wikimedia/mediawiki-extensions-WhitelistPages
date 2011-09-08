@@ -119,10 +119,11 @@ $messages['pl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'whitelistpages-desc' => 'A përmëtt ëd [[MediaWiki:Public read whitelist|amposté su ista bianca]] dle pagine dzora na wiki privà an manera che utent anònim a peusso lese cole pagine',
+	'whitelistpages-desc' => "A përmët d'[[MediaWiki:Public read whitelist|amposté na lista bianca]] dle pàgine dzora na wiki privà an manera che j'utent anònim a peusso lese cole pagine",
 );
 
 /** Portuguese (Português)
