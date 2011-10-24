@@ -20,6 +20,13 @@ $messages['qqq'] = array(
 	'whitelistpages-desc' => '{{desc}}',
 );
 
+/** Asturian (Asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'whitelistpages-desc' => "Permite incluír páxines d'una wiki privada nuna [[MediaWiki:Public read whitelist|llista blanca]], que permite que los usuarios anónimos puedan lleeles",
+);
+
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author Renessaince
  */
