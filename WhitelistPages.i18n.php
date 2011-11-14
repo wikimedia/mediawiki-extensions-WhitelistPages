@@ -69,6 +69,13 @@ $messages['he'] = array(
 	'whitelistpages-desc' => 'הפעלת [[MediaWiki:Public read whitelist|רשימה לבנה]] של דפים בוויקי פרטי כדי שמשתמשים אלמוניים יוכלו לקרוא את הדפים האמורים',
 );
 
+/** Upper Sorbian (Hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'whitelistpages-desc' => 'Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] stronow w priwatnym wikiju, tak zo anonomni wužiwarjo móža wone strony čitać',
+);
+
 /** Interlingua (Interlingua)
  * @author McDutchie
  */
