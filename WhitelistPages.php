@@ -23,7 +23,7 @@ $wgExtensionCredits['other'][] = array(
 	'author' => array( 'Jack Phoenix', 'Misza' ),
 	'version' => '0.2.1',
 	'descriptionmsg' => 'whitelistpages-desc',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:Whitelist_Pages',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:Whitelist_Pages',
 );
 
 $wgExtensionMessagesFiles['WhitelistPages'] = dirname( __FILE__ ) . '/WhitelistPages.i18n.php';
