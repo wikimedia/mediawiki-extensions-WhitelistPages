@@ -48,6 +48,13 @@ $messages['de'] = array(
 	'whitelistpages-desc' => 'Ermöglicht das [[MediaWiki:Public read whitelist|Freigeben]] bestimmter Seiten auf geschlossenen Wikis, so dass diese von anonymen Benutzern eingesehen werden können',
 );
 
+/** Lower Sorbian (Dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'whitelistpages-desc' => 'Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] bokow w priwatnem wikiju, tak až anonymne wužywarje mógu wóne boki cytaś',
+);
+
 /** French (Français)
  * @author Crochet.david
  */
@@ -73,7 +80,7 @@ $messages['he'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
-	'whitelistpages-desc' => 'Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] stronow w priwatnym wikiju, tak zo anonomni wužiwarjo móža wone strony čitać',
+	'whitelistpages-desc' => 'Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] stronow w priwatnym wikiju, tak zo anonymni wužiwarjo móža wone strony čitać',
 );
 
 /** Interlingua (Interlingua)
