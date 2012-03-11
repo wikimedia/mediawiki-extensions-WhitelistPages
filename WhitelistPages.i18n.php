@@ -55,6 +55,13 @@ $messages['dsb'] = array(
 	'whitelistpages-desc' => 'Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] bokow w priwatnem wikiju, tak až anonymne wužywarje mógu wóne boki cytaś',
 );
 
+/** Spanish (Español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'whitelistpages-desc' => 'Permite incluir páginas [[MediaWiki:Public read whitelist|en la lista blanca]] de un wiki privado, para que los usuarios anónimos puedan leer esas páginas',
+);
+
 /** French (Français)
  * @author Crochet.david
  */
