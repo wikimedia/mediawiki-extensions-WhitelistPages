@@ -104,7 +104,7 @@ $messages['id'] = array(
 	'whitelistpages-desc' => 'Menyediakan [[MediaWiki:Public read whitelist|daftar putih]] halaman pada wiki pribadi agar pengguna anonim dapat membaca halaman yang ditentukan',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
