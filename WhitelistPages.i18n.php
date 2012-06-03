@@ -118,6 +118,13 @@ $messages['ja'] = array(
 	'whitelistpages-desc' => 'プライベートウィキのページを[[MediaWiki:Public read whitelist|ホワイトリスト]]に入れて匿名利用者が閲覧できるようにするのを許可する',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'whitelistpages-desc' => '익명 사용자가 알린 문서를 읽을 수 있도록 개인 위키에 [[MediaWiki:Public read whitelist|허용 목록]]을 추가',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
