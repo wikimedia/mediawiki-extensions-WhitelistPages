@@ -122,7 +122,7 @@ $messages['ja'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'whitelistpages-desc' => '익명 사용자가 알린 문서를 읽을 수 있도록 개인 위키에 [[MediaWiki:Public read whitelist|허용 목록]]을 추가',
+	'whitelistpages-desc' => '익명 사용자가 알린 문서를 읽을 수 있도록 비공개 위키에 [[MediaWiki:Public read whitelist|허용 목록]]을 추가',
 );
 
 /** Colognian (Ripoarisch)
