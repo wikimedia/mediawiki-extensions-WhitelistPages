@@ -115,7 +115,7 @@ $messages['it'] = array(
  * @author Shirayuki
  */
 $messages['ja'] = array(
-	'whitelistpages-desc' => 'プライベートウィキのページを[[MediaWiki:Public read whitelist|ホワイトリスト]]に入れて匿名利用者が閲覧できるようにするのを許可する',
+	'whitelistpages-desc' => '非公開ウィキのページを[[MediaWiki:Public read whitelist|ホワイトリスト]]に入れて匿名利用者が閲覧できるようにするのを許可する',
 );
 
 /** Korean (한국어)
