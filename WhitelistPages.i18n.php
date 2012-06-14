@@ -20,7 +20,7 @@ $messages['qqq'] = array(
 	'whitelistpages-desc' => '{{desc}}',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -34,7 +34,7 @@ $messages['be-tarask'] = array(
 	'whitelistpages-desc' => 'Дазваляе дадаваць старонкі ў прыватнай вікі ў [[MediaWiki:Public read whitelist|белы сьпіс]], каб ананімныя ўдзельнікі маглі іх чытаць',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -55,14 +55,14 @@ $messages['dsb'] = array(
 	'whitelistpages-desc' => 'Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] bokow w priwatnem wikiju, tak až anonymne wužywarje mógu wóne boki cytaś',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
 	'whitelistpages-desc' => 'Permite incluir páginas [[MediaWiki:Public read whitelist|en la lista blanca]] de un wiki privado, para que los usuarios anónimos puedan leer esas páginas',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  */
 $messages['fr'] = array(
@@ -90,7 +90,7 @@ $messages['hsb'] = array(
 	'whitelistpages-desc' => 'Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] stronow w priwatnym wikiju, tak zo anonymni wužiwarjo móža wone strony čitać',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -139,7 +139,7 @@ $messages['lb'] = array(
 	'whitelistpages-desc' => 'Erméiglecht et op zouene Wikie [[MediaWiki:Public read whitelist|bestëmmte Säite fräi ze ginn]], esou datt déi vun anonyme Benotzer gekuckt kënne ginn',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -160,7 +160,7 @@ $messages['nl'] = array(
 	'whitelistpages-desc' => "Maakt het mogelijk pagina's in een niet-openbare wiki op de [[MediaWiki:Public read whitelist|witte lijst]] te zetten zodat anonieme gebruikers die kunnen bekijken",
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -175,21 +175,21 @@ $messages['pms'] = array(
 	'whitelistpages-desc' => "A përmët d'[[MediaWiki:Public read whitelist|amposté na lista bianca]] dle pàgine dzora na wiki privà an manera che j'utent anònim a peusso lese cole pagine",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
 	'whitelistpages-desc' => 'Nas wikis privadas, permite a inclusão de páginas numa [[MediaWiki:Public read whitelist|lista branca pública]], para que os utilizadores anónimos possam lê-las',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Giro720
  */
 $messages['pt-br'] = array(
 	'whitelistpages-desc' => 'Permite a inclusão de páginas numa [[MediaWiki:Public read whitelist|lista branca]] nas wikis privadas, para que os usuários anônimos possam lê-las',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
