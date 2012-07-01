@@ -27,7 +27,7 @@ $messages['ast'] = array(
 	'whitelistpages-desc' => "Permite incluír páxines d'una wiki privada nuna [[MediaWiki:Public read whitelist|llista blanca]], que permite que los usuarios anónimos puedan lleeles",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Renessaince
  */
 $messages['be-tarask'] = array(
@@ -48,7 +48,7 @@ $messages['de'] = array(
 	'whitelistpages-desc' => 'Ermöglicht das [[MediaWiki:Public read whitelist|Freigeben]] bestimmter Seiten auf geschlossenen Wikis, so dass diese von anonymen Benutzern eingesehen werden können',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -69,7 +69,7 @@ $messages['fr'] = array(
 	'whitelistpages-desc' => 'Permet une [[MediaWiki:Public read whitelist|liste blanche]] de pages sur un wiki privé afin que les utilisateurs anonymes peuvent lire ces pages',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -83,7 +83,7 @@ $messages['he'] = array(
 	'whitelistpages-desc' => 'הפעלת [[MediaWiki:Public read whitelist|רשימה לבנה]] של דפים בוויקי פרטי כדי שמשתמשים אלמוניים יוכלו לקרוא את הדפים האמורים',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
