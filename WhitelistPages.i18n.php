@@ -27,7 +27,7 @@ $messages['ast'] = array(
 	'whitelistpages-desc' => "Permite incluír páxines d'una wiki privada nuna [[MediaWiki:Public read whitelist|llista blanca]], que permite que los usuarios anónimos puedan lleeles",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Renessaince
  */
 $messages['be-tarask'] = array(
