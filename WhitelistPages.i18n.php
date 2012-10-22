@@ -15,9 +15,11 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Umherirrender
  */
 $messages['qqq'] = array(
 	'whitelistpages-desc' => '{{desc}}',
+	'public_read_whitelist' => '{{notranslate}}',
 );
 
 /** Asturian (asturianu)
@@ -202,4 +204,3 @@ $messages['ru'] = array(
 $messages['tl'] = array(
 	'whitelistpages-desc' => 'Nagpapahintulot ng mga pahina ng [[MediaWiki:Public read whitelist|talaan ng hindi pinagbabawalan]] sa isang pribadong wiki upang mabasa ng hindi nagpapakilalang mga tagagamit ang nasabing mga pahina',
 );
-
