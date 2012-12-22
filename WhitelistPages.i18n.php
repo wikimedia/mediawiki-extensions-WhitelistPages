@@ -204,3 +204,10 @@ $messages['ru'] = array(
 $messages['tl'] = array(
 	'whitelistpages-desc' => 'Nagpapahintulot ng mga pahina ng [[MediaWiki:Public read whitelist|talaan ng hindi pinagbabawalan]] sa isang pribadong wiki upang mabasa ng hindi nagpapakilalang mga tagagamit ang nasabing mga pahina',
 );
+
+/** Ukrainian (українська)
+ * @author Base
+ */
+$messages['uk'] = array(
+	'whitelistpages-desc' => 'Дозволяє додавати сторінки приватної вікі [[MediaWiki:Public read whitelist|у білий список]], щоб аноніми могли їх читати',
+);
