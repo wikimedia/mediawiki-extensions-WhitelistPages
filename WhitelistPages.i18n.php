@@ -211,3 +211,10 @@ $messages['tl'] = array(
 $messages['uk'] = array(
 	'whitelistpages-desc' => 'Дозволяє додавати сторінки приватної вікі [[MediaWiki:Public read whitelist|у білий список]], щоб аноніми могли їх читати',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'whitelistpages-desc' => '允许[[MediaWiki:Public read whitelist|白名单]]页面，用于私有wiki，让匿名用户可以阅读白名单中提到的页面',
+);
