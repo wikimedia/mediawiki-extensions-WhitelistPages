@@ -191,6 +191,13 @@ $messages['pt-br'] = array(
 	'whitelistpages-desc' => 'Permite a inclusão de páginas numa [[MediaWiki:Public read whitelist|lista branca]] nas wikis privadas, para que os usuários anônimos possam lê-las',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'whitelistpages-desc' => "Permette pàggene [[MediaWiki:Public read whitelist|vacande]] sus a 'na uicchi private accussì ca le utinde anonime ponne leggere chidde pàggene",
+);
+
 /** Russian (русский)
  * @author Александр Сигачёв
  */
