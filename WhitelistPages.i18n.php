@@ -29,6 +29,13 @@ $messages['ast'] = array(
 	'whitelistpages-desc' => "Permite incluír páxines d'una wiki privada nuna [[MediaWiki:Public read whitelist|llista blanca]], que permite que los usuarios anónimos puedan lleeles",
 );
 
+/** South Azerbaijani (تورکجه)
+ * @author Mousa
+ */
+$messages['azb'] = array(
+	'whitelistpages-desc' => 'تانینمامیش ایستیفاده‌چیلر صحیفه‌لری اوخویا بیلدیکلری اوچون، بیر شخصی ویکی‌ده، [[MediaWiki:Public read whitelist|آغ لیست ائتمک]] ایمکانی وئریر',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Renessaince
  */
