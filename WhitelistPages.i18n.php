@@ -15,10 +15,11 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Shirayuki
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'whitelistpages-desc' => '{{desc}}',
+	'whitelistpages-desc' => '{{desc|name=Whitelist Pages|url=http://www.mediawiki.org/wiki/Extension:Whitelist_Pages}}',
 	'public_read_whitelist' => '{{notranslate}}',
 );
 
