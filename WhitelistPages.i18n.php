@@ -233,3 +233,10 @@ $messages['uk'] = array(
 $messages['zh-hans'] = array(
 	'whitelistpages-desc' => '允许[[MediaWiki:Public read whitelist|白名单]]页面，用于私有wiki，让匿名用户可以阅读白名单中提到的页面',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'whitelistpages-desc' => '容許於私密維基上擁有[[MediaWiki:Public read whitelist|白名單]]頁面，讓匿名用戶可以閱讀其中的頁面',
+);
