@@ -144,9 +144,10 @@ $messages['ksh'] = array(
 
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
-	'whitelistpages-desc' => 'Erméiglecht et op zouene Wikie [[MediaWiki:Public read whitelist|bestëmmte Säite fräi ze ginn]], esou datt déi vun anonyme Benotzer gekuckt kënne ginn',
+	'whitelistpages-desc' => 'Erméiglecht et op zouene Wikie [[MediaWiki:Public read whitelist|bestëmmte Säite fräi ze ginn]], sou datt déi vun anonyme Benotzer gekuckt kënne ginn',
 );
 
 /** Macedonian (македонски)
