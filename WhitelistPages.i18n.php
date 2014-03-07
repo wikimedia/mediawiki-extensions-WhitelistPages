@@ -72,6 +72,13 @@ $messages['es'] = array(
 	'whitelistpages-desc' => 'Permite incluir páginas [[MediaWiki:Public read whitelist|en la lista blanca]] de un wiki privado, para que los usuarios anónimos puedan leer esas páginas',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'whitelistpages-desc' => 'اجازه [[MediaWiki:Public read whitelist|فهرست سفید]] صفحات در یک ویکی خصوصی بنابراین صفحات بگویند کاربران ناشناسی که می‌توانند بخوانند',
+);
+
 /** French (français)
  * @author Crochet.david
  */
@@ -154,7 +161,7 @@ $messages['lb'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'whitelistpages-desc' => 'Овозможува заведување на страници на приватно вики во [[MediaWiki:Public read whitelist|бел список]], овозможувајќи им на анонимните корисници да ги читаат наведените страници',
+	'whitelistpages-desc' => 'Овозможува заведување на страници на лично вики во [[MediaWiki:Public read whitelist|бел список]], овозможувајќи им на анонимните корисници да ги читаат наведените страници',
 );
 
 /** Malay (Bahasa Melayu)
