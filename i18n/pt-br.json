@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Giro720"
+        ]
+    },
+    "whitelistpages-desc": "Permite a inclusão de páginas numa [[MediaWiki:Public read whitelist|lista branca]] nas wikis privadas, para que os usuários anônimos possam lê-las"
+}

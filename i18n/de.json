@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Kghbln"
+        ]
+    },
+    "whitelistpages-desc": "Ermöglicht das [[MediaWiki:Public read whitelist|Freigeben]] bestimmter Seiten auf geschlossenen Wikis, so dass diese von anonymen Benutzern eingesehen werden können"
+}

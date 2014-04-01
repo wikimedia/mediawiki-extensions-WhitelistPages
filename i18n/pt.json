@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Hamilton Abreu"
+        ]
+    },
+    "whitelistpages-desc": "Nas wikis privadas, permite a inclusão de páginas numa [[MediaWiki:Public read whitelist|lista branca pública]], para que os utilizadores anónimos possam lê-las"
+}

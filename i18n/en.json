@@ -1,0 +1,7 @@
+{
+    "@metadata": {
+        "authors": []
+    },
+    "whitelistpages-desc": "Allows [[MediaWiki:Public read whitelist|whitelisting]] pages on a private wiki so that anonymous users can read said pages",
+    "public_read_whitelist": ""
+}

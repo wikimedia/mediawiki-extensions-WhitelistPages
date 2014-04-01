@@ -4,7 +4,6 @@
  *
  * @file
  * @ingroup Extensions
- * @version 0.2
  * @author Jack Phoenix <jack@shoutwiki.com>
  * @author Misza <misza@shoutwiki.com>
  * @date 26 January 2011
@@ -21,11 +20,12 @@ $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'Whitelist Pages',
 	'author' => array( 'Jack Phoenix', 'Misza' ),
-	'version' => '0.2.1',
+	'version' => '0.3.0',
 	'descriptionmsg' => 'whitelistpages-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Whitelist_Pages',
 );
 
+$wgMessagesDirs['WhitelistPages'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['WhitelistPages'] = dirname( __FILE__ ) . '/WhitelistPages.i18n.php';
 
 $wgExtensionFunctions[] = 'wfWhitelistPages';

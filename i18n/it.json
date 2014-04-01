@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Beta16"
+        ]
+    },
+    "whitelistpages-desc": "Permette di inserire pagine in una [[MediaWiki:Public read whitelist|whitelist]] su un wiki privato in modo che anche gli utenti anonimi possono leggere quelle pagine"
+}
