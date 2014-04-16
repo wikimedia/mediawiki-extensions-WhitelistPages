@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Toliño"
-        ]
-    },
-    "whitelistpages-desc": "Permite incluír páxinas [[MediaWiki:Public read whitelist|na lista branca]] dun wiki privado, de xeito que os usuarios anónimos poidan ler esas páxinas"
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"whitelistpages-desc": "Permite incluír páxinas [[MediaWiki:Public read whitelist|na lista branca]] dun wiki privado, de xeito que os usuarios anónimos poidan ler esas páxinas"
 }

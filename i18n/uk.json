@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Base"
-        ]
-    },
-    "whitelistpages-desc": "Дозволяє додавати сторінки приватної вікі [[MediaWiki:Public read whitelist|у білий список]], щоб аноніми могли їх читати"
+	"@metadata": {
+		"authors": [
+			"Base"
+		]
+	},
+	"whitelistpages-desc": "Дозволяє додавати сторінки приватної вікі [[MediaWiki:Public read whitelist|у білий список]], щоб аноніми могли їх читати"
 }

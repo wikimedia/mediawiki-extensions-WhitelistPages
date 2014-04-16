@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Borichèt",
-            "Dragonòt"
-        ]
-    },
-    "whitelistpages-desc": "A përmët d'[[MediaWiki:Public read whitelist|amposté na lista bianca]] dle pàgine dzora na wiki privà an manera che j'utent anònim a peusso lese cole pagine"
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt"
+		]
+	},
+	"whitelistpages-desc": "A përmët d'[[MediaWiki:Public read whitelist|amposté na lista bianca]] dle pàgine dzora na wiki privà an manera che j'utent anònim a peusso lese cole pagine"
 }

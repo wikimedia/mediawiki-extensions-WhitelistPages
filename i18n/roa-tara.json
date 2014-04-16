@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Joetaras"
-        ]
-    },
-    "whitelistpages-desc": "Permette pàggene [[MediaWiki:Public read whitelist|vacande]] sus a 'na uicchi private accussì ca le utinde anonime ponne leggere chidde pàggene"
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"whitelistpages-desc": "Permette pàggene [[MediaWiki:Public read whitelist|vacande]] sus a 'na uicchi private accussì ca le utinde anonime ponne leggere chidde pàggene"
 }

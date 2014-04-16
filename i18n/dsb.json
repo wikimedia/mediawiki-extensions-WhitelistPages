@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Michawiki"
-        ]
-    },
-    "whitelistpages-desc": "Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] bokow w priwatnem wikiju, tak až anonymne wužywarje mógu wóne boki cytaś"
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"whitelistpages-desc": "Zmóžnja [[MediaWiki:Public read whitelist|dopušćenje]] bokow w priwatnem wikiju, tak až anonymne wužywarje mógu wóne boki cytaś"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "whitelistpages-desc": "非公開ウィキのページを[[MediaWiki:Public read whitelist|ホワイトリスト]]に入れて匿名利用者が閲覧できるようにするのを許可する"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"whitelistpages-desc": "非公開ウィキのページを[[MediaWiki:Public read whitelist|ホワイトリスト]]に入れて匿名利用者が閲覧できるようにするのを許可する"
 }

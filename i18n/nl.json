@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand"
-        ]
-    },
-    "whitelistpages-desc": "Maakt het mogelijk pagina's in een niet-openbare wiki op de [[MediaWiki:Public read whitelist|witte lijst]] te zetten zodat anonieme gebruikers die kunnen bekijken"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"whitelistpages-desc": "Maakt het mogelijk pagina's in een niet-openbare wiki op de [[MediaWiki:Public read whitelist|witte lijst]] te zetten zodat anonieme gebruikers die kunnen bekijken"
 }

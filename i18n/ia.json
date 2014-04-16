@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "McDutchie"
-        ]
-    },
-    "whitelistpages-desc": "Permitte adder paginas al [[MediaWiki:Public read whitelist|lista blanc]] in un wiki private, de sorta que usatores anonyme pote leger iste paginas"
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"whitelistpages-desc": "Permitte adder paginas al [[MediaWiki:Public read whitelist|lista blanc]] in un wiki private, de sorta que usatores anonyme pote leger iste paginas"
 }

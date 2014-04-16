@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Yfdyh000"
-        ]
-    },
-    "whitelistpages-desc": "允许[[MediaWiki:Public read whitelist|白名单]]页面，用于私有wiki，让匿名用户可以阅读白名单中提到的页面"
+	"@metadata": {
+		"authors": [
+			"Yfdyh000"
+		]
+	},
+	"whitelistpages-desc": "允许[[MediaWiki:Public read whitelist|白名单]]页面，用于私有wiki，让匿名用户可以阅读白名单中提到的页面"
 }

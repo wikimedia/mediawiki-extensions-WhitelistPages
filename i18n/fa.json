@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Armin1392"
-        ]
-    },
-    "whitelistpages-desc": "اجازه [[MediaWiki:Public read whitelist|فهرست سفید]] صفحات در یک ویکی خصوصی بنابراین صفحات بگویند کاربران ناشناسی که می‌توانند بخوانند"
+	"@metadata": {
+		"authors": [
+			"Armin1392"
+		]
+	},
+	"whitelistpages-desc": "اجازه [[MediaWiki:Public read whitelist|فهرست سفید]] صفحات در یک ویکی خصوصی بنابراین صفحات بگویند کاربران ناشناسی که می‌توانند بخوانند"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "IvanLanin"
-        ]
-    },
-    "whitelistpages-desc": "Menyediakan [[MediaWiki:Public read whitelist|daftar putih]] halaman pada wiki pribadi agar pengguna anonim dapat membaca halaman yang ditentukan"
+	"@metadata": {
+		"authors": [
+			"IvanLanin"
+		]
+	},
+	"whitelistpages-desc": "Menyediakan [[MediaWiki:Public read whitelist|daftar putih]] halaman pada wiki pribadi agar pengguna anonim dapat membaca halaman yang ditentukan"
 }

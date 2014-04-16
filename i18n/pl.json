@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Sp5uhe"
-        ]
-    },
-    "whitelistpages-desc": "Pozwala w prywatnej wiki wpisać strony na [[MediaWiki:Public read whitelist|białą listę]], co umożliwia przeglądanie tych stron przez niezalogowanych użytkowników"
+	"@metadata": {
+		"authors": [
+			"Sp5uhe"
+		]
+	},
+	"whitelistpages-desc": "Pozwala w prywatnej wiki wpisać strony na [[MediaWiki:Public read whitelist|białą listę]], co umożliwia przeglądanie tych stron przez niezalogowanych użytkowników"
 }

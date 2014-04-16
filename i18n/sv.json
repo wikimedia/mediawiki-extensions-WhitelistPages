@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "WikiPhoenix"
-        ]
-    },
-    "whitelistpages-desc": "Tillåter att [[MediaWiki:Public read whitelist|vitlista]] sidor på en privat wiki så att anonyma användare kan läsa valda sidor"
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"whitelistpages-desc": "Tillåter att [[MediaWiki:Public read whitelist|vitlista]] sidor på en privat wiki så att anonyma användare kan läsa valda sidor"
 }
