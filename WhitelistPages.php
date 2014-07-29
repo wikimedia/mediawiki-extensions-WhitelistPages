@@ -32,10 +32,10 @@ $wgExtensionFunctions[] = 'wfWhitelistPages';
 function wfWhitelistPages() {
 	global $wgWhitelistRead, $wgGroupPermissions;
 
-	$message = wfMsgForContent( 'public read whitelist' );
+	$message = wfMessage( 'public_read_whitelist' )->inContentLanguage();
 
 	// If MediaWiki:Public read whitelist is empty, bail out
-	if ( wfEmptyMsg( 'public read whitelist', $message ) ) {
+	if ( $message->isDisabled() ) {
 		return;
 	}
 
@@ -51,7 +51,7 @@ function wfWhitelistPages() {
 	}
 
 	// Explode along newlines
-	$whitelistedPages = explode( "\n", trim( $message ) );
+	$whitelistedPages = explode( "\n", trim( $message->plain() ) );
 
 	// Merge with current list
 	$wgWhitelistRead = array_merge( $wgWhitelistRead, $whitelistedPages );
