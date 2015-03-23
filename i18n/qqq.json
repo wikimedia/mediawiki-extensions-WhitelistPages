@@ -6,6 +6,6 @@
 			"Umherirrender"
 		]
 	},
-	"whitelistpages-desc": "{{desc|name=Whitelist Pages|url=http://www.mediawiki.org/wiki/Extension:Whitelist_Pages}}",
+	"whitelistpages-desc": "{{desc|name=Whitelist Pages|url=https://www.mediawiki.org/wiki/Extension:Whitelist_Pages}}",
 	"public_read_whitelist": "{{notranslate}}"
 }
