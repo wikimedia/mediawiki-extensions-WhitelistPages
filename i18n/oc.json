@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"whitelistpages-desc": "Permet una [[MediaWiki:Public read whitelist|lista blanca]] de paginas sus un wiki privar per que los utilizaires anonims pòscan legir aquelas paginas"
+}
