@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Justincheng12345"
+			"Justincheng12345",
+			"LNDDYL"
 		]
 	},
-	"whitelistpages-desc": "容許於私密維基上擁有[[MediaWiki:Public read whitelist|白名單]]頁面，讓匿名用戶可以閱讀其中的頁面"
+	"whitelistpages-desc": "容許於私密 wiki 上擁有[[MediaWiki:Public read whitelist|白名單]]頁面，讓匿名使用者可以閱讀其中的頁面"
 }
