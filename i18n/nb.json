@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"whitelistpages-desc": "Gjør det mulig å [[MediaWiki:Public read whitelist|hvitelisting]] av sider på en privat wiki så anonyme brukere kan lese disse sidene"
+}
