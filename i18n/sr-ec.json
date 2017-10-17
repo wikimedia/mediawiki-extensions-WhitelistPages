@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Obsuser"
+		]
+	},
+	"whitelistpages-desc": "Омогућава [[MediaWiki:Public read whitelist|вајтлистинг]] страница на приватној вики тако да анонимни корисници могу читати поменуте странице"
+}
