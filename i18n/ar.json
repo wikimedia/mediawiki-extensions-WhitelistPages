@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"ديفيد"
+		]
+	},
+	"whitelistpages-desc": "يسمح [[MediaWiki:Public read whitelist|بالإدراج في القائمة البيضاء]] للصفحات الخاصة بحيث يمكن للمستخدمين المجهولين قراءة الصفحات المذكورة"
+}
