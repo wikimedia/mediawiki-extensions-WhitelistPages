@@ -6,7 +6,7 @@
  * @ingroup Extensions
  * @author Jack Phoenix <jack@shoutwiki.com>
  * @author Misza <misza@shoutwiki.com>
- * @date 21 December 2016
+ * @date 13 July 2017
  * @license https://en.wikipedia.org/wiki/Public_domain Public domain
  */
 
@@ -33,8 +33,11 @@ class WhitelistPages {
 			return true;
 		}
 
-		// Explode along newlines
-		$whitelistedPages = explode( "\n", trim( $message->plain() ) );
+		static $whitelistedPages;
+		if ( $whitelistedPages === null ) {
+			// Explode along newlines
+			$whitelistedPages = explode( "\n", trim( $message->plain() ) );
+		}
 		if ( in_array( $title->getPrefixedText(), $whitelistedPages ) ) {
 			$whitelisted = true;
 		}
