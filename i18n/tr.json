@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"whitelistpages-desc": "Özel bir wikide [[MediaWiki:Public read whitelist|beyaz listeleme]] sayfalara izin verir, böylece anonim kullanıcılar bu sayfaları okuyabilir"
+}
