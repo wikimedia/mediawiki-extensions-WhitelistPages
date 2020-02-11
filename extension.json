@@ -14,7 +14,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"WhitelistPages": "WhitelistPages.class.php"
+		"WhitelistPages": "WhitelistPages.php"
 	},
 	"Hooks": {
 		"TitleReadWhitelist": "WhitelistPages::onTitleReadWhitelist"
