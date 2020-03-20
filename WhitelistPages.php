@@ -16,6 +16,7 @@ class WhitelistPages {
 	 * @param Title $title Title object being checked against
 	 * @param User $user Current user object
 	 * @param bool &$whitelisted Whether this title is whitelisted
+	 * @return true
 	 */
 	public static function onTitleReadWhitelist( $title, $user, &$whitelisted ) {
 		global $wgGroupPermissions;
