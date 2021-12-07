@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Armando-Martin"
+			"Armando-Martin",
+			"Jakeukalane"
 		]
 	},
-	"whitelistpages-desc": "Permite incluir páginas [[MediaWiki:Public read whitelist|en la lista blanca]] de un wiki privado, para que los usuarios anónimos puedan leer esas páginas"
+	"whitelistpages-desc": "Permite incluir páginas [[MediaWiki:Public read whitelist|en la lista blanca]] de una wiki privada, para que los usuarios anónimos puedan leer esas páginas"
 }
