@@ -1,0 +1,6 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"whitelistpages-desc": "Omogućava [[MediaWiki:Public read whitelist|vajtlisting]] stranica na privatnoj viki tako da anonimni korisnici mogu čitati pomenute stranice"
+}
