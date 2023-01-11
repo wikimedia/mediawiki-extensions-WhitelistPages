@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"whitelistpages-desc": "Omogoča [[MediaWiki:Public read whitelist|navedbo strani na belem seznamu]] za zasebni viki, da lahko te strani berejo anonimni uporabniki"
+}
