@@ -9,7 +9,7 @@
 	"descriptionmsg": "whitelistpages-desc",
 	"type": "other",
 	"requires": {
-		"MediaWiki": ">= 1.34.0"
+		"MediaWiki": ">= 1.39.4"
 	},
 	"MessagesDirs": {
 		"WhitelistPages": [
