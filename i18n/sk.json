@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"whitelistpages-desc": "Umožňuje [[MediaWiki:Public read whitelist|pridať na zoznam povolených]] stránky na súkromnej wiki, aby ich mohli čítať anonymní používatelia"
+}
